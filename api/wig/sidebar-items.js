@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["define_add_wrappers_to_module","A single-use macro in the `wasmtime-wasi` crate."],["witx_host_types",""],["witx_wasi32_types",""],["witx_wasi_types",""]]});

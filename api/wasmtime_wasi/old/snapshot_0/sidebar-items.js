@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["create_wasi_instance","Creates `wasmtime::Instance` object implementing the \"wasi\" interface."],["instantiate_wasi","Return an instance implementing the \"wasi\" interface."],["instantiate_wasi_with_context","Return an instance implementing the \"wasi\" interface."],["is_wasi_module",""]]});
